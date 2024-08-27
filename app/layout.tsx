@@ -17,11 +17,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2378449291834627"
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2239245177332096"
      crossOrigin="anonymous"></script>
-     <meta name="google-site-verification" content="BZJDh80Z-wktkC_XIBI3xlAWYRu2neH7-AUuAKe0n9Y" />
-
-     <meta name="google-adsense-account" content="ca-pub-2378449291834627"></meta>
+<meta name="google-adsense-account" content="ca-pub-2239245177332096"></meta>
       </head>
       <body className={inter.className}>{children}</body>
     </html>
